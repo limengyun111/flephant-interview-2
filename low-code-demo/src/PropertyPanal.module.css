@@ -1,0 +1,23 @@
+.property-panel {
+  width: 300px;
+  height: 100vh;
+  flex-shrink: 0;
+  padding: 15px 20px;
+}
+
+.text-config-item {
+  margin: 0px 0 10px 5px;
+}
+
+.text-config-item>div:first-child {
+  font-weight: bold;
+}
+
+.submit-btn {
+  margin: 10px 0 0 5px;
+  cursor: pointer;
+}
+
+.no-select-tip {
+  font-weight: bold;
+}
